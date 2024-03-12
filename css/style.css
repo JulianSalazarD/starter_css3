@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large; 
+    background-color: aquamarine;
+}
+header{
+    background-color: cyan;
+}
+nav{
+    background-color: cyan;
+}
+main{
+    background-color: cyan;
+    font-size: medium;
+}
+footer{
+    background-color: rgb(64, 194, 214);
+    
+}
+li{
+    display: flexbox;
+    width: auto;
+}
+h1{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+p{
+    line-height: 200%;
+}
